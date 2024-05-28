@@ -11,14 +11,14 @@
 # Stack
 
 <div style="display: flex">
-  <img  src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png' width='80'/>
-  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png' width='80'/>
-  <img  src='https://ionicframework.jp/docs/icons/logo-react-icon.png' width='80'/>
-  <img src='https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png' width='80'/> 
-  <img  src='https://miro.medium.com/v2/resize:fit:800/1*v2vdfKqD4MtmTSgNP0o5cg.png' width='80'/>
-  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/1200px-NestJS.svg.png' width='80'/>
-  <img src='https://platri.de/wp-content/uploads/2024/01/Angular-Framework-e1649312852136.png' width='80'/>
-  <img src='https://cdn.worldvectorlogo.com/logos/rxjs-1.svg' width='80'/>
+  <img  src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png' width='90'/>
+  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png' width='90'/>
+  <img  src='https://ionicframework.jp/docs/icons/logo-react-icon.png' width='90'/>
+  <img src='https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png' width='90'/> 
+  <img  src='https://miro.medium.com/v2/resize:fit:800/1*v2vdfKqD4MtmTSgNP0o5cg.png' width='90'/>
+  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/1200px-NestJS.svg.png' width='90'/>
+  <img src='https://platri.de/wp-content/uploads/2024/01/Angular-Framework-e1649312852136.png' width='90'/>
+  <img src='https://cdn.worldvectorlogo.com/logos/rxjs-1.svg' width='90'/>
 
 
 </div>
