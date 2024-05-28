@@ -1,27 +1,26 @@
+<img src='https://i.pinimg.com/originals/16/69/e5/1669e57761ccc67fa5e31a09a54764d0.gif'/>
+
 # Hey! I’m Baitemir Asanbaev
 
-Full-stack developer
 
-Love learning new technologies
+💻 Full-stack developer
 
-Creativity over Routine 
+📖 Love learning new technologies
+
+💡 Creativity over Routine
 
 # Stack
 
-![https://ionicframework.jp/docs/icons/logo-react-icon.png](https://ionicframework.jp/docs/icons/logo-react-icon.png)
+<img src='https://ionicframework.jp/docs/icons/logo-react-icon.png' width='100'/>
+<img src='https://miro.medium.com/v2/resize:fit:800/1*v2vdfKqD4MtmTSgNP0o5cg.png' width='100'/>
+<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png' width='100'/>
+<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/1200px-NestJS.svg.png' width='100'/>
+<img src='https://platri.de/wp-content/uploads/2024/01/Angular-Framework-e1649312852136.png' width='100'/>
 
-![https://miro.medium.com/v2/resize:fit:800/1*v2vdfKqD4MtmTSgNP0o5cg.png](https://miro.medium.com/v2/resize:fit:800/1*v2vdfKqD4MtmTSgNP0o5cg.png)
-
-![https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png)
-
-![https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/1200px-NestJS.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/1200px-NestJS.svg.png)
-
-![https://platri.de/wp-content/uploads/2024/01/Angular-Framework-e1649312852136.png](https://platri.de/wp-content/uploads/2024/01/Angular-Framework-e1649312852136.png)
 
 ## Full list of languages and tools
 
 ### Frontend
-
 - HTML
 - CSS
 - JavaScript
@@ -60,12 +59,11 @@ Creativity over Routine
 - Git
 - Figma
 
----
-
 # Contact me
 
-LinkedIn
+[LinkedIn](https://www.linkedin.com/in/baitemir/)
 
-Email
+<a href="mailto:baitemir1706@gmail.com_">Email</a>
 
-Telegram
+[Telegram](https://t.me/baitemir17)
+
