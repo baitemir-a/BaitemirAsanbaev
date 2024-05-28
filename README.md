@@ -11,7 +11,7 @@
 
 # Stack
 
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; justify-content: space-between">
   <img src='https://ionicframework.jp/docs/icons/logo-react-icon.png' width='100'/>
   <img src='https://miro.medium.com/v2/resize:fit:800/1*v2vdfKqD4MtmTSgNP0o5cg.png' width='100'/>
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png' width='100'/>
