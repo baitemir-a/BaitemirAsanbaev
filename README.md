@@ -2,7 +2,6 @@
 
 # Hey! I’m Baitemir Asanbaev
 
-
 💻 Full-stack developer
 
 📖 Love learning new technologies
@@ -12,63 +11,43 @@
 # Stack
 
 <div style="display: flex">
-  <img style="margin-right: 50px" src='https://ionicframework.jp/docs/icons/logo-react-icon.png' width='100'/>
-  <img style="margin-right: 50px" src='https://miro.medium.com/v2/resize:fit:800/1*v2vdfKqD4MtmTSgNP0o5cg.png' width='100'/>
-  <img style="margin-right: 50px" src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png' width='100'/>
-  <img style="margin-right: 50px" src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/1200px-NestJS.svg.png' width='100'/>
-  <img style="margin-right: 50px" src='https://platri.de/wp-content/uploads/2024/01/Angular-Framework-e1649312852136.png' width='100'/>
+  <img  src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png' width='100'/>
+  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png' width='100'/>
+  <img  src='https://ionicframework.jp/docs/icons/logo-react-icon.png' width='100'/>
+  <img  src='https://miro.medium.com/v2/resize:fit:800/1*v2vdfKqD4MtmTSgNP0o5cg.png' width='100'/>
+  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/1200px-NestJS.svg.png' width='100'/>
+  <img src='https://platri.de/wp-content/uploads/2024/01/Angular-Framework-e1649312852136.png' width='100'/>
+  <img src='https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png' width='100'/>
+
 </div>
 
 ## Full list of languages and tools
+
 <table>
   <tr>
-    <td>
+    <td style="vertical-align: top">
 
 ### Frontend
-- HTML
-- CSS
-- JavaScript
-- TypeScript
-- React
-- Redux Toolkit
-- RTK Query
-- Scss/Sass
-- Tailwind
-- Vite
-- Angular
-- RXJS
-- ngRX
 
-    </td>
-    <td>
+HTML, CSS, JavaScript, TypeScript, React, Redux Toolkit, RTK Query, Scss/Sass, Tailwind, Vite, Angular, RXJS, ngRX
+
+</td>
+<td style="vertical-align: top">
 
 ### Backend
-- NodeJS
-- Express
-- Nest
-- MongoDB
-- PostgreSQL
-- Sequelize
-- SQL
-- Python
-- Django
-- Java
-- Spring Boot
 
-    </td>
-    <td>
+NodeJS, Express, Nest, MongoDB, PostgreSQL, Sequelize, SQL, Python, Django, Java, Spring Boot
+
+</td>
+<td style="vertical-align: top">
 
 ### Additional skills
-- REST API
-- GraphQL
-- WebSockets
-- OOP/FP
-- Agile/Scrum
-- Git
-- Figma
 
-    </td>
-  </tr>
+REST API
+REST API, GraphQL, WebSockets, OOP/FP, Agile/Scrum, Git, Figma
+
+</td>
+</tr>
 </table>
 
 # Contact me
