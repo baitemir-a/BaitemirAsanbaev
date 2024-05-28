@@ -20,6 +20,9 @@
 </div>
 
 ## Full list of languages and tools
+<div style="display: flex; justify-content: space-between;">
+
+<div style="width: 30%;">
 
 ### Frontend
 - HTML
@@ -36,6 +39,10 @@
 - RXJS
 - ngRX
 
+</div>
+
+<div style="width: 30%;">
+
 ### Backend
 
 - NodeJS
@@ -43,14 +50,18 @@
 - Nest
 - MongoDB
 - PostgreSQL
-- Sequalize
+- Sequelize
 - SQL
 - Python
 - Django
 - Java
-- Spring boot
+- Spring Boot
 
-### Additional skills
+</div>
+
+<div style="width: 30%;">
+
+### Skills
 
 - REST API
 - GraphQL
@@ -59,6 +70,10 @@
 - Agile/Scrum
 - Git
 - Figma
+
+</div>
+
+</div>
 
 # Contact me
 
